@@ -1,4 +1,4 @@
-# Tianji Weather Science & Technology Co., Ltd. (中科天机) 🌦️
+# Tianji Weather Science & Technology Co., Ltd. (中科天机) 
 
 > **Open-Source Meteorology & Climate AI Ecosystem**  
 > 致力于构建开放、前沿的气象开源生态与地球科学算力应用。
